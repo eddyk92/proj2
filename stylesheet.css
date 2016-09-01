@@ -1,0 +1,94 @@
+.name{
+	font-size: 50px;
+	margin-left: 75%;
+	font-size: 50px;
+}
+.title{
+	margin-top: -2%;
+	margin-left: 79%;
+}
+hr{
+	display: block;
+    height: 1px;
+    width: 65%;
+    border: 0;
+    border-top: 7px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+    margin-left: 28%;
+}
+.img{
+	width: 65%;
+	height: 20%;
+	float: right;
+	margin-right: 7%;
+}
+.rect1{
+	width: 85px;
+	height: 85px;
+	background: #02b3e4;
+	margin-left: 13%;
+	margin-bottom: -1%;
+}
+.rect2{
+	width: 85px;
+	height: 85px;
+	background: #2d3c49;
+	margin-left: 13%;
+	margin-bottom: -1%;
+}
+.rect3{
+	width: 85px;
+	height: 85px;
+	background: #7d97ad;
+	margin-left: 13%;
+	margin-bottom: -1%;
+}
+.hex{
+	margin-top: 0%;
+	margin-left: 13%;
+	margin-bottom: 2%;
+	font-size: 25px;
+}
+.row{
+	margin-left: 28%;
+	color: #7d97ad;
+	font-size: 24px;
+}
+.port{
+	margin-left: 28%;
+}
+.projImg{
+	display: inline-block;
+	width: 28%;
+	height: 52%;
+}
+#i1,#i2,#i3{
+	padding-right: 2%;
+}
+#i2,#i3{
+	padding-left: 2%;
+	padding-right: 1%;
+}
+#i3{
+	margin-right: 8%;
+}
+.projTitle{
+	margin-top: 0%;
+}
+.url{
+	margin-top: -1.5%;
+	margin-bottom: 2%;
+	font-size: 18px;
+}
+.projs{
+	text-align: justify;
+}
+.projs:after{
+	content: '';
+	display: inline-block;
+	/*width: 25%;*/
+}
+.proj2{
+
+}
