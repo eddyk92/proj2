@@ -55,8 +55,11 @@ hr{
 	color: #7d97ad;
 	font-size: 24px;
 }
-.port, .title{
+.port{
 	margin-left: 28%;
+}
+.title{
+	margin-left: 83%;
 }
 .projImg{
 	display: inline-block;
