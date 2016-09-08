@@ -5,7 +5,7 @@
 }
 .title{
 	margin-top: -2%;
-	margin-left: 78%;
+	margin-left: 83%;
 }
 hr{
 	display: block;
@@ -58,13 +58,11 @@ hr{
 .port{
 	margin-left: 28%;
 }
-.title{
-	margin-left: 83%;
-}
 .projImg{
 	display: inline-block;
 	width: 28%;
 	height: 52%;
+	padding-bottom: 1%;
 }
 #i1,#i2,#i3{
 	padding-right: 2%;
@@ -76,12 +74,15 @@ hr{
 #i3{
 	margin-right: 8%;
 }
-#projs{
+.projs{
+	display: inline;
 	text-align: justify;
 }
 .projs:after{
 	content: '';
 	display: inline-block;
+	margin: 0%;
+	padding: 0%;
 	/*width: 25%;*/
 }
 #t1{
@@ -101,4 +102,25 @@ hr{
 	margin-top: -1.5%;
 	margin-bottom: 2%;
 	font-size: 18px;
+}
+.projTitle1, .projTitle2, .projTitle3{
+	display: inline;
+	padding-right: 19%;
+}
+.projTitle3{
+	padding-left: 14%;
+}
+.url1, .url2, .url3{
+	display: inline;
+}
+.url1{
+	margin: 2%;
+}
+.url2{
+	margin-left: 12%; 
+}
+.url3{
+	margin-left: -3%;
+/*	padding-right: 0%;
+	padding-left: 6%;*/
 }
